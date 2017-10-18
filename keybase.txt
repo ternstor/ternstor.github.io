@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/ternstor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://n0.cl
+  * I am ternstor (https://keybase.io/ternstor) on keybase.
+  * I have a public key with fingerprint C80F 0B22 04BD 7C22 02B0  4B02 42D6 4020 8F74 D966
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016a9a8c16f2b6f828b3dc811773f5579b4087db4eb8ad82ed54f0f46d5863df0e0a",
+      "fingerprint": "c80f0b2204bd7c2202b04b0242d640208f74d966",
+      "host": "keybase.io",
+      "key_id": "42d640208f74d966",
+      "kid": "01016a9a8c16f2b6f828b3dc811773f5579b4087db4eb8ad82ed54f0f46d5863df0e0a",
+      "uid": "6cc3f223f11405ccbee90faa27b0c100",
+      "username": "ternstor"
+    },
+    "merkle_root": {
+      "ctime": 1508356964,
+      "hash_meta": "3f893269deaefce29d05dca9d45d601bf4478dc23cf58aaafc24872616ec2da2",
+      "seqno": 1599146
+    },
+    "revoke": {
+      "sig_ids": [
+        "d3541c9af3e523b3d0e1530616d1097988d2217465cb74b987fb2360eac3e7080f"
+      ]
+    },
+    "service": {
+      "hostname": "n0.cl",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1508356966,
+  "expire_in": 157680000,
+  "prev": "c03acffb1ba7b9a248ce6570beec224c4f8ae98f031d0779133bb1f21c1c12ea",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMPJAnicrVNpbBVVGG1ZJD4llbSKWCrNGBZDfbmz3ZlpaavEipbIIk0VgTzv3KUd
+2vfmMW+6WSqgIFASsUZs4YeV1kagQMoay9ZYG/YQC1goVF9KhIqVNUhpQOqdBhNj
+/Om9P+6S853v3PN9t23k0Bhf7NSOl5PXup0s9kRrqChmbs8uVi6YNikTUsuFAjq4
+0EJCI26gwCJCqgBEIEJkIB2LkEkmZLqkmzLBuihqmsxUVTNMBegaMRVq6ojoEiWq
+wgBTIFF1KBMGKEBCisCsUB51wo4Vcjkt1gEDpiQBxSQa5qtk8i2QFIlABUhAZ5pC
+DAh5YL4d8SK4OBNFqN+y+R0/BAbl/Qf+f9ZdNEgHMZaZJMlMFBWgYmxSagCGkKSZ
+AIsAeMAIdUIoSDna5buIaztCRYoQpE5BIQ04tu165mLX8iCiCnRZhQZU+ANRJD8Q
+pC7ikTLTDVmCBqGIMkwlgwCVYGQQRSUQiCZTFE0nWJIxU3WEEMOSomsSFCHFEkES
+1xGhi0K2l8EwRAVyBQ4ttguolzxi5XHbIkLqPIHIqiJiAzGZqpLMnQFUVGXAiYgI
+DM3QdSJJoqZAFZuaYhq6xkxJhoAiLFMN8PIJCyq8ZE6xhQfJvTo9en8I+HEhlxJ2
+bNfGdiG/ynfdcKrnh1sW9iAl1Aw8Cg6YVojw7uABxdSJWHaIq+fIf1sFUwRaGrYc
+GrA8hKpBHfDhpaHFXk8BGWHGTNFEmmkgbgymUNUArxXvMAUrTEfU0BmQRQI0zRBl
+2TRFJomYT4mif3incZ0oj3Nyx0LILXKoUNH63fxhMbG+mMeGD/G+TYzv8af+/kzH
+quIGsnKqtz2YkpaW/u1+I1LZGB6R/evt4DujJeXS6Ck/30mY2ztq4cDhwr3pNYlH
+9hw529F4rTfmq2gU96PS7pzahnRfOeyPX3euve/M7jQjPuPqfXOp2TX/+ev7rqQU
+0YHM8L3YAeeP7r6bJeePfRh3T2wbMrFSHdYxWXy74vQH/Wm73uhrmBBMTl75+fbw
+ptljZx6Gq4YeezZBztu5pDNz2pydOe/7z59sOp7ka1t2P37hqxl1vT69LDzqVjCj
+7cHuJdUzag48R+T65jFZq29mrGcbJoWvzTpuDayPb7kSXDx9R+7e9qmgeeyhC6sW
+Vfzo2sFpbenRpqOdSV+f+OlOz9Hu9ty6hNqeyNmk5mV9WZfrMt/N67PGdZ7e/eXH
+0y+Parmw+OArrVmlOQ8PnVeCa6uaFpB5oHf/Zrckrb36+zdfGtNSEVfsW7Pl9NbK
+7ONLs1dUzl6xQ9s3YtqCYQnFvw3vkveX1DT656ysOvVMbXZiLrz+3snXtYlVV52l
+B64dvJDVfL80bkP1vo9Gnnt4eM9na/GdWTeidk3mQL89NaPWODP+C3/fxbsbf8/U
+d0xo8b8wPtn5ISn3xbtbR4OGROe1J/ITo73wra5J25t6ouV1I2/fSp6x2t/benRj
+R/qhxCdz6y/de/pG2Qlzc2NXUf4v3alk+bYt8sXly0LrzkVTT82vb1n/CRwX/nTy
+NzM3baj88y/b2gvU
+=pg76
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ternstor
+
+==================================================================
